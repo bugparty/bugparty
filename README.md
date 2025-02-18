@@ -9,7 +9,7 @@ Welcome to my GitHub profile. Here's a bit about me:
 
 ## My GitHub Stats
 
-![bugparty's GitHub stats](https://github-readme-stats.vercel.app/api?username=bugparty&show_icons=true&theme=radical)
+![bugparty's GitHub stats](https://github-readme-stats.vercel.app/api?username=bugparty&show_icons=true&include_all_commits=true&theme=radical)
 
 ## Top Languages
 
