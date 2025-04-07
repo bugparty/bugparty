@@ -27,7 +27,7 @@ A simple, multi-format quote API that supports both JSON and HTML output. Demons
 → *Technologies: Cloudflare Worker, Content-Type negotiation*
 
 **3. [Parrot Repeater](https://github.com/bugparty/cloudflare_worker_parrot)**  
-A minimal Worker-based echo service that repeats whatever content is sent via a POST request. Built as a hands-on experiment to explore request/response handling.  
+A minimal Worker-based service that send user a dancing party parrot. Built as a hands-on experiment to explore request/response handling.  
 → *Technologies: Cloudflare Worker, POST body parsing*
 
 
