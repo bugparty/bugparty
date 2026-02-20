@@ -6,6 +6,8 @@ Welcome to my GitHub profile. Here's a bit about me:
 - 👯 I'm looking to collaborate on open source projects.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love debugging code and finding creative solutions to problems!
+- 📝 Blog: [0x1f0c.dev](https://www.0x1f0c.dev/)
+- 💼 LinkedIn: [bowmanhan](https://www.linkedin.com/in/bowmanhan/)
 
 ## My GitHub Stats
 
