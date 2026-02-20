@@ -13,7 +13,7 @@ Welcome to my GitHub profile. Here's a bit about me:
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats-phi-nine-30.vercel.app/api?username=bugparty&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-phi-nine-30.vercel.app/api/top-langs?username=bugparty&layout=compact&theme=radical)
 
 ## Projects
 
