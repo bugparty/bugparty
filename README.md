@@ -8,6 +8,7 @@ Welcome to my GitHub profile. Here's a bit about me:
 - ⚡ Fun fact: I love debugging code and finding creative solutions to problems!
 - 📝 Blog: [0x1f0c.dev](https://www.0x1f0c.dev/)
 - 💼 LinkedIn: [bowmanhan](https://www.linkedin.com/in/bowmanhan/)
+- 📧 Email: [admin@0x1f0c.dev](mailto:admin@0x1f0c.dev)
 
 ## My GitHub Stats
 
