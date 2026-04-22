@@ -15,6 +15,11 @@ Welcome to my GitHub profile. Here's a bit about me:
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Running Docker and ROCm on Steam Deck &lpar;Neptune 6.11+&rpar; in 2025 Jun](https://www.0x1f0c.dev/2025/06/15/running-docker-and-rocm-on-steam-deck-neptune-6-11-in-2025-jun/)
+- [How Search Companies Betrayed Their Users](https://www.0x1f0c.dev/2025/06/11/how-search-companies-betrayed-their-users/)
+- [finding an augmenting path in a residual network](https://www.0x1f0c.dev/2025/06/11/finding-an-augmenting-path-in-a-residual-network/)
+- [biparty graph](https://www.0x1f0c.dev/2025/06/04/biparty-graph/)
+- [Deep Dive into Hash Tables_ Python vs C++ vs Java](https://www.0x1f0c.dev/2025/05/16/deep-dive-into-hash-tables_-python-vs-c-vs-java/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My GitHub Stats
