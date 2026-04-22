@@ -4,8 +4,8 @@
 
 Welcome to my GitHub profile. Here's a bit about me:
 
-- 🌱 I'm currently learning new things about software development.
-- 👯 I'm looking to collaborate on open source projects.
+- 🔍 I'm actively seeking roles focused on CPU/GPU performance optimization.
+- 🚀 My interests include high-performance computing, LLM inference optimization, and low-level optimization.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love debugging code and finding creative solutions to problems!
 - 📝 Blog: [0x1f0c.dev](https://www.0x1f0c.dev/)
